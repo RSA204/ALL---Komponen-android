@@ -1,4 +1,5 @@
 # Android_Studio_Repo
 
-Bagian - bagian activity android 
+Bagian - bagian dari activity android 
+
 
